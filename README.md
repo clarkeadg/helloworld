@@ -51,9 +51,5 @@ php HelloWorld.php
 node HelloWorld.js
 ```
 
-## Ruby
-- run
-```
-ruby HelloWorld.rb
-```
+
 
